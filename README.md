@@ -8,7 +8,7 @@
 
 This Emacs package provides a global minor mode named `balanced-windows-mode`. When enabled, Emacs will automatically balance windows (keeping them roughly the same size) whenever the window configuration changes, e.g. after splitting or deleting a window.
 
-## Installation
+## 💾 Installation
 
 ```elisp
 (use-package balanced-windows
@@ -19,6 +19,7 @@ This Emacs package provides a global minor mode named `balanced-windows-mode`. W
 ## License
 
 BSD-3-clause. Copyright © 2019 wouter bolsterlee.
+BSD-3-clause. Copyright © 2022 Jen-Chieh Shen.
 
 ## Credits
 
