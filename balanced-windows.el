@@ -7,7 +7,10 @@
 ;; Package-Requires: ((emacs "25.1"))
 ;; Version: 1.0.0
 
-;; Copyright 2019 wouter bolsterlee. Licensed under the 3-Clause BSD License.
+;; Copyright 2019 wouter bolsterlee
+;; Copyright 2022 Jen-Chieh Shen
+
+;; Licensed under the 3-Clause BSD License.
 
 ;;; Commentary:
 
