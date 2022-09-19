@@ -2,6 +2,9 @@
 [![JCS-ELPA](https://raw.githubusercontent.com/jcs-emacs/badges/master/elpa/v/balanced-windows.svg)](https://jcs-emacs.github.io/jcs-elpa/#/balanced-windows)
 
 # balanced-windows
+> Keep windows balanced
+
+[![CI](https://github.com/elp-revive/balanced-windows/actions/workflows/test.yml/badge.svg)](https://github.com/elp-revive/balanced-windows/actions/workflows/test.yml)
 
 This Emacs package provides a global minor mode named `balanced-windows-mode`. When enabled, Emacs will automatically balance windows (keeping them roughly the same size) whenever the window configuration changes, e.g. after splitting or deleting a window.
 
