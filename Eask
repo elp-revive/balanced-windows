@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "balanced-windows"
          "1.0.0"
          "Keep windows balanced")
